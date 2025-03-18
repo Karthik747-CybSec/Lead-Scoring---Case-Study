@@ -1,5 +1,8 @@
 # Lead-Scoring-Case-Study-Upgrad
 
+Team: Vipin Raut, Karthik Ramesh, Shreyans Setia
+
+
 Problem Statement
 
  An education company named X Education sells online courses to industry professionals.
