@@ -1,4 +1,5 @@
 # Lead-Scoring-Case-Study-Upgrad
+
 Problem Statement
 
  An education company named X Education sells online courses to industry professionals.
@@ -13,3 +14,26 @@ Business Objective
 Lead X wants us to build a model to give every lead a lead score between 0 -100 . So that they can identify the Hot leads and increase their conversion rate as well. 
 The CEO want to achieve a lead conversion rate of 80%.
 They want the model to be able to handle future constraints as well like Peak time actions required, how to utilize full man power and after achieving target what should be the approaches.
+
+
+**Steps Followed**
+
+Reading Data
+Cleaning Data
+EDA
+Creating Dummy
+Splitting data into train and test set
+Building Model
+Making Predictions
+Model Evaluation
+ROC Curve
+Prediction on test set
+Precision- Recall
+
+
+**Details of files given**
+
+Lead Scoring Case Study.ipynb : The python file showing coding and data analysis
+Assignment Subjective Questions.pdf : Some subjective questions answered
+Lead Scoring Case Study.pdf : Final Presentation
+Summary Lead Scoring : Summary on what's done in the entire py file
